@@ -78,7 +78,7 @@ Note: The app may work on other Android versions as well, but it has not been sp
 
 You can download the latest version of the app from the following link:
 
-[Photo Editor APK](apk/EasyPhotoEditor.apk)
+[Photo Editor APK](app/apk/EasyPhotoEditor.apk)
 
 ## License
 
