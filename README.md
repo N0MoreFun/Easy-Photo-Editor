@@ -1,6 +1,6 @@
 # Easy Photo Editor
 
-![App Screenshots](screenshots/screenshot_logo.png)
+![App Logo](screenshots/logo.png)
 
 Photo Editor is an Android application developed in Kotlin using Jetpack Compose. It allows users to apply filters, effects, and annotations to photos.
 
@@ -66,11 +66,13 @@ Note: The app may work on other Android versions as well, but it has not been sp
 
 ## Screenshots
 
-![Main Menu](screenshots/screenshot_menu.png)
-
-![Photo Editing](screenshots/screenshot_editing.png)
-
-![Export Options](screenshots/screenshot_export.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/main.png" alt="Main Menu" height="400" />
+  <img src="screenshots/camera.png" alt="Photo Capture" height="400" />
+  <img src="screenshots/edit.png" alt="Photo Editing" height="400" />
+  <img src="screenshots/draw.png" alt="Draw" height="400" />
+  <img src="screenshots/share.png" alt="Export Options" height="400" />
+</div>
 
 ## APK Download
 
